@@ -13,7 +13,7 @@
 }
 @media (max-width: 767px) {
     .special-heading {
-        width: 450px;
+        font-size: 56px;
     }
 }
 body {
@@ -276,20 +276,23 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
     .srv .text p {
         bottom: 2px;
         left: 10px;
-        max-width: 390px;
+        max-width: 320px;
     }
 }
 @media (max-width: 767px) {
     .srv-tow .text p {
-        top: -218px;
+        top: -236px;
         left: 269px;
-        max-width: 373px;
+        max-width: 308px;
+        position: relative;
     }
 }
 @media (max-width: 767px) {
     .srv-tow .intro-imag , .intro-imag  {
-    left: 56px;
-    margin-bottom: 307px;
+    left: 73px;
+    margin-bottom: 310px;
+    width: 200px;
+    height: 200px;
     }
 }
 @media (max-width: 767px) {
