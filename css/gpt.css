@@ -13,7 +13,7 @@
 }
 @media (max-width: 767px) {
     .special-heading {
-        font-size: 54px;
+        width: 450px;
     }
 }
 body {
